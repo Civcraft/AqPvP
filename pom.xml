@@ -62,8 +62,8 @@
 		</dependency>
 		<dependency>
 			<groupId>org.spigotmc</groupId>
-			<artifactId>Spigot1.8.7</artifactId>
-			<version>1.8.7</version>
+			<artifactId>Spigot1.8.8</artifactId>
+			<version>1.8.8</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
