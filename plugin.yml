@@ -1,6 +1,6 @@
-name: AqPvP
+name: ${project.name}
 author: Aqlow
-version: 0.1
+version: ${project.version}
 main: me.aqlow.spigot.pvp.AqPvP
 commands:
   aqpvp:
